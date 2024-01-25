@@ -8,7 +8,7 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
-  "homepage": "https://MatthiasScreed.github.io/biltonconseil/",
+  "homepage": "https://matthiasscreed.github.io/biltonconseil/",
   "dependencies": {
     "core-js": "^3.8.3",
     "tailwindcss": "^3.4.1",
