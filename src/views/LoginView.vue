@@ -1,7 +1,7 @@
 <template>
   <div class="font-sans text-gray-900 antialiased">
     <div
-      class="min-h-screen flex flex-col sm:justify-center items-center pt-12 bg-gray-100"
+      class="min-h-screen px-6 sm:px-0 flex flex-col sm:justify-center items-center pt-12 bg-gray-100"
     >
       <div>
         <a href="/">
@@ -12,7 +12,7 @@
         </a>
       </div>
       <div
-        class="max-w-md mt-6 px-6 py-4 bg-white shadow-md overflow-hidden sm:rounded-lg"
+        class="w-full sm:max-w-md mt-6 px-6 py-4 bg-white shadow-md overflow-hidden sm:rounded-lg"
       >
         <h2 class="text-center text-xl leading-8">Accés Client</h2>
         <form @submit.prevent="login">
